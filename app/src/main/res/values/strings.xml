@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Peak Assessment</string>
+
+    <string name="action_undo">Undo</string>
+    <string name="action_stats">Stats</string>
+    <string name="action_delete">Delete All</string>
+    <string name="action_exit">Exit</string>
+</resources>
